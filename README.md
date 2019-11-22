@@ -9,7 +9,7 @@ Then send code packets to hostIP and depenting on the code the server responds w
 
 <b>2. Temperature Packets </b> - Code measures temperature
 
-<b>3. Image Packtes </b> - Code assembles received packets into picture.jpg - Options between fixed and moving camera, direction of movement of moving cammera, flow of packets every time user sends a packet or all at once and packet lenghth  
+<b>3. Image Packets </b> - Code assembles received packets into picture.jpg - Options between fixed and moving camera, direction of movement of moving cammera, flow of packets every time user sends a packet or all at once and packet lenghth  
 
 <b>4. Audio Packets </b> - Code assembles received packets into Audio Sapmles.txt and Audio Diffs Samples.txt - Options between Song/Tone and DCPM/AQ-DCPM
 
