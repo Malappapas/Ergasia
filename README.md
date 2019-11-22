@@ -1,5 +1,5 @@
-# Ergasia
-Exercise For Network Communictions Class
+# Network-Comunications-2-Exercise
+Exercise For Network Communictions 2 Class
 
 Code accesess teachers server at ports and hostIP given to the student at http://ithaki.eng.auth.gr/netlab/vlabProject
 
