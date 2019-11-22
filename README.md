@@ -1,7 +1,7 @@
 # Ergasia
 Exercise For Network Communictions Class
 
-Code accesess teachers server at ports and hostIP given to the student at /http://ithaki.eng.auth.gr/netlab/vlabProject
+Code accesess teachers server at ports and hostIP given to the student at http://ithaki.eng.auth.gr/netlab/vlabProject
 
 Then send code packets to hostIP and depenting on the code the server responds with:
 
