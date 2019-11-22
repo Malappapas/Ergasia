@@ -1,7 +1,7 @@
 # Network-Comunications-2-Exercise
 Exercise For Network Communictions 2 Class
 
-Code accesess teachers server at ports and hostIP given to the student at http://ithaki.eng.auth.gr/netlab/vlabProject
+Code accesess teachers server at ports and hostIP given to the student at http://ithaki.eng.auth.gr/netlab/vlabProject to be added manualy to code and change every 2 hours
 
 Then send code packets to hostIP and depenting on the code the server responds with:
 
